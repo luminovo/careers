@@ -1,7 +1,7 @@
 # Software Engineer Intern (m/f/d)
 
 ## Your role
-Please have a look at our Software Engineer (Full-Time) position. As an intern at Luminovo you are immediately part of the core team and you will be doing much of the same things as our full-time employees depending on your experience and skill level when you start your internship.
+Please have a look at our [Software Engineer (Full-Time)](software-engineer.md) position. As an intern at Luminovo you are immediately part of the core team and you will be doing much of the same things as our full-time employees depending on your experience and skill level when you start your internship.
 
 ## Your internship
 Here are some more fun facts about your internship at Luminovo:
