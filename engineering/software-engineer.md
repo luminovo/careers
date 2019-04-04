@@ -1,6 +1,6 @@
 # Software Engineer (m/f/d)
 
-## Your role
+## Your Role
 If you are a software engineering wizard (or want to become one) this is the role for you. If you feel more like a deep-learning native make sure to look at our role for Deep Learning Engineers. If you can’t decide, just apply for one and we will figure things out together. After all: we are a young start-up and the challenges our engineering team faces are quite diverse, so the line between the two roles can be blurry and depends more on what you bring to the table than how we decorate it. 
 Nuff said, let’s dive right in. This is some of the stuff we need your help with: 
 
