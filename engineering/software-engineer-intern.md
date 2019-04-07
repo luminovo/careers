@@ -13,3 +13,5 @@ Here are some more fun facts about your internship at Luminovo:
 * We just moved in our own office in the core of Munich
 
 If you are just as excited as we are about making AI easily usable and widely used and want to work with some of the best AI engineers in Germany, please apply!
+
+**Apply [here](https://luminovo-jobs.personio.de/job/114188).**
