@@ -5,7 +5,7 @@ If you are a deep learning native (or want to become one) this is the role for y
 Nuff said, let’s dive right in. This is some of the stuff we need your help with: 
 
 * Take ownership of deep learning projects from beginning (understanding the problem that we’re trying to solve) to end (a deployed model)
-    * Demonstrate strong problem-solving skills when faced with diverse machine learning problems. This includes:	
+* Demonstrate strong problem-solving skills when faced with diverse machine learning problems. This includes:	
     * Quickly grasping the business context of the problem at hand and using your knowledge of how the model is going to be used to choose the right evaluation metric
     * Digging deep into the data and the underlying data sources to choose the right dataset split and to identify pitfalls arising from non-iid samples 
 * Combining both your practical and theoretical ML knowledge to set the right priorities when choosing which idea or approach to try next						
